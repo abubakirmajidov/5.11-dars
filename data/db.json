@@ -1,0 +1,84 @@
+{
+  "recipies": [
+    {
+      "id": "1",
+      "title": "Palov",
+      "cookingTime": "120 minutes",
+      "ingredients": ["rise", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*UxnVMQMIAowST-rp"
+    },
+    {
+      "id": "2",
+      "title": "Ko'kat Somsa",
+      "cookingTime": "40 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://arbuz.com/wp-content/uploads/2017/08/Samsa-Recipe-46.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Mol go'shti Somsa",
+      "cookingTime": "40 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. ",
+      "imageUrl": "https://dostavo4ka.uz/upload-file/2021/07/18/6245/5b1cee63-83ed-4106-a0b1-3c9cf533bea4.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Kosa Somsa",
+      "cookingTime": "40 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://pbs.twimg.com/media/Ea3CWijWsAc25Fn.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Sho'rva",
+      "cookingTime": "80 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. ",
+      "imageUrl": "https://zira.uz/wp-content/uploads/2020/01/kovurma-shurpa-3.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Mastava",
+      "cookingTime": "80 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://yummybook.ru/cloud/images/recipe/item/9535/image_large_81295ed3db9f19a1d_90942671.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Lag'mon",
+      "cookingTime": "120 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://avatars.mds.yandex.net/get-altay/6236523/2a000001811b007a2d7f7173cbc8367331f1/L_height"
+    },
+    {
+      "id": "8",
+      "title": "Do'lma",
+      "cookingTime": "100 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://i.ytimg.com/vi/xTAKrwcnu9s/maxresdefault.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Kabob",
+      "cookingTime": "30 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://www.thespruceeats.com/thmb/JxS5vOoiKl6g-15wYt3N4DaGP7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/joojeh-kabob-recipe-5271127-Hero_01-987fd80e070d4241bd6f881c6df878cf.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Beshbarmoq",
+      "cookingTime": "150 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://daryo.uz/cache/2020/04/beshm-698x540.jpg"
+    }
+  ]
+}
